@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Dantech Partners feature.
+ */
+
+include_once 'dantech_partners.features.inc';
