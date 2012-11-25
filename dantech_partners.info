@@ -23,6 +23,7 @@ features[field][] = node-dantech_partner-field_partner_logo
 features[field][] = node-dantech_partner-field_partner_www
 features[field][] = node-dantech_partner-title_field
 features[node][] = dantech_partner
+features[variable][] = field_bundle_settings_node__dantech_partner
 features[variable][] = menu_options_dantech_partner
 features[variable][] = menu_parent_dantech_partner
 features[variable][] = node_options_dantech_partner
